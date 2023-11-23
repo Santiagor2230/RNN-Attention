@@ -28,5 +28,4 @@ Sparse Categorical Crossentropy
 
 ![RNN_attention1](https://github.com/Santiagor2230/RNN-Attention/assets/52907423/a38886bb-d821-4be4-be0a-bfd6b64a658e)
 ![rnn-attention 4](https://github.com/Santiagor2230/RNN-Attention/assets/52907423/3c54a3a4-9182-49a0-8085-a89c179b3729)
-![rnn-attention2](https://github.com/Santiagor2230/RNN-Attention/assets/52907423/bec0ca3f-b7f1-4633-85e4-4c636cf2f16b)
 ![attention-rnn3](https://github.com/Santiagor2230/RNN-Attention/assets/52907423/1e1ff1eb-11e7-446b-bee3-c29fb7ec0454)
