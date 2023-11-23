@@ -1,2 +1,4 @@
 # RNN-Attention
-Implementation of  RNN with Attention
+Implementation of  RNN with Attention for NLP
+
+
